@@ -1,4 +1,4 @@
-namespace TabViewPort.TabView
+namespace TabViewPort
 {
     public class TabViewAutomationPeer
     {
